@@ -1,6 +1,12 @@
 header {
   background-color: #ACDCF0;
 }
+main{
+  display: grid;
+  grid-template-areas:
+    'aside article article'
+    'aside footer footer'
+}
 aside {
     background:#B0CBF1
 }
