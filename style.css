@@ -17,12 +17,15 @@ main{
 aside {
     grid-area: aside;
     background:#370D51;
+    color: #F3E5F5;
 }
 article {
     grid-area: article;
     background: #370D51;
+    color: #F3E5F5;
 }
 footer {
     gird area: footer;
     background: #370D51;
+    color: #F3E5F5;
 }
