@@ -16,13 +16,13 @@ main{
 }
 aside {
     grid-area: aside;
-    background:#AA50BA;
+    background:#370D51;
 }
 article {
     grid-area: article;
-    background: #C2B7F3;
+    background: #370D51;
 }
 footer {
     gird area: footer;
-    background: #B3BBF2;
+    background: #370D51;
 }
