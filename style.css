@@ -10,7 +10,7 @@ main{
 }
 aside {
     grid-area: aside
-    background:#B0CBF1
+    background:#B0CBF1;
 }
 article {
     grid-area: article
@@ -18,5 +18,5 @@ article {
 }
 footer {
     gird area: footer
-    background: #B3BBF2
+    background: #B3BBF2;
 }
