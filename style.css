@@ -1,3 +1,12 @@
 header {
-  background-color: #C2B7F3;
+  background-color: #ACDCF0;
+}
+aside {
+    background:#C2B7F3
+}
+article {
+    background: #C2B7F3;
+}
+footer {
+    background: #ACDCF0
 }
