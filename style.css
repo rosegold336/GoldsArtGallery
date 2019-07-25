@@ -5,7 +5,7 @@ main{
   display: grid;
   grid-template-areas:
     'aside article article'
-    'aside footer footer'
+    'aside footer footer';
   grid-gap: 30px;
 }
 aside {
