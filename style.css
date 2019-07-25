@@ -9,14 +9,14 @@ main{
   grid-gap: 30px;
 }
 aside {
-    grid-area: aside
+    grid-area: aside;
     background:#B0CBF1;
 }
 article {
-    grid-area: article
+    grid-area: article;
     background: #C2B7F3;
 }
 footer {
-    gird area: footer
+    gird area: footer;
     background: #B3BBF2;
 }
