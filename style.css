@@ -6,14 +6,17 @@ main{
   grid-template-areas:
     'aside article article'
     'aside footer footer'
-    grid-gap: 30px
+  grid-gap: 30px;
 }
 aside {
+    grid-area: aside
     background:#B0CBF1
 }
 article {
+    grid-area: article
     background: #C2B7F3;
 }
 footer {
+    gird area: footer
     background: #B3BBF2
 }
