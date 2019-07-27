@@ -9,6 +9,8 @@ header {
   background-position: left top;
   background-repeat: repeat;
   padding: 20px;
+   text-align: justify; /* For Edge */ 
+  text-align-last: center;
 }
 main{
   display: grid;
