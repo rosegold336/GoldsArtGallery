@@ -28,9 +28,13 @@ article {
     grid-area: article;
     background: #370D51;
     color: #F3E5F5;
+  border-radius: 25px;
+  padding: 20px;  
 }
 footer {
     gird area: footer;
     background: #370D51;
     color: #F3E5F5;
+  border-radius: 25px;
+  padding: 20px; 
 }
